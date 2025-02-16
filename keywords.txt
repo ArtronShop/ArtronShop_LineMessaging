@@ -1,0 +1,27 @@
+######################################
+# Syntax Coloring Map ESP Line Messaging
+######################################
+
+#######################################
+# Classes and Structured Type (KEYWORD1)
+#######################################
+
+LINE  KEYWORD1
+
+###############################################
+# Methods and Functions (KEYWORD2)
+###############################################
+
+begin     KEYWORD2
+setToken  KEYWORD2
+setClient KEYWORD2
+send      KEYWORD2
+
+
+#######################################
+# Struct (KEYWORD3)
+#######################################
+
+LINE_Notify_Massage_Option_t  KEYWORD3
+LONGDO_MAP  KEYWORD3
+GOOGLE_MAP  KEYWORD3
