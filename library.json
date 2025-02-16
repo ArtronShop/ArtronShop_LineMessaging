@@ -1,6 +1,6 @@
 {
     "name": "ArtronShop_LineMessaging",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": "communication, esp32, esp8266, arduino",
     "description": "LINE Notify library for ESP32, ESP8266 and Arduino Uno R4 WiFi. Send notification message, sticker and images to LINE app via LINE Messaging API",
     "repository": {
