@@ -34,7 +34,7 @@ void ArtronShop_LineMessaging::setClient(Client *client) {
     this->client = client;
 }
 
-bool ArtronShop_LineMessaging::send(String to, String massage, LINE_Notify_Massage_Option_t *option) {
+bool ArtronShop_LineMessaging::send(String to, String massage, LINE_Messaging_Massage_Option_t *option) {
     if (massage.length() <= 0) {
         ESP_LOGE(TAG, "massage can't empty");
         return false;
